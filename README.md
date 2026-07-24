@@ -84,17 +84,19 @@ Bu projede \*\*Version 2 CycleGAN\*\* mimarisine entegre edilen özel kayıp fon
 
 ├── scripts/
 
+│   ├── preprocess.py       # Program öncesi veriseti düzenleme
+ 
 │   ├── train.py            # CycleGAN v2 eğitim döngüsü
 
 │   └── inference.py        # Yeni görseller üzerinde test betiği
 
-├── pretrained\_models/      # Eğitilmiş model ağırlıkları (Version 2)
+├── saved_models/           # Eğitilmiş model ağırlıkları (Version 2)
 
 ├── samples/                # Örnek girdi ve 3'lü karşılaştırma çıktıları
 
 ├── README.md               # Proje dokümantasyonu
 
-└── requirements.txt        # Kütüphane bağımlılıkları
+
 
 
 ##  Proje Dosyaları ve İndirme Bağlantıları
