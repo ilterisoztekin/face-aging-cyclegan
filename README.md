@@ -101,7 +101,7 @@ Bu projede \*\*Version 2 CycleGAN\*\* mimarisine entegre edilen özel kayıp fon
 
 GitHub dosya boyutu kısıtlamaları nedeniyle eğitilmiş model ağırlıkları (`.pth`), eğitim veri kümeleri (`datasets/`) ve tüm kaynak kodlar Google Drive üzerinde paylaşılmıştır.
 
-*  **Google Drive İndirme Bağlantısı:** [Face Aging CycleGAN - Tüm Dosyalar (https://drive.google.com/drive/folders/1gtJ_VHD7tSXKgffHm-hOHaTQmNJbuelE?usp=drive_link)]
+*  **Google Drive İndirme Bağlantısı:** [Face Aging CycleGAN - Tüm Dosyalar (https://drive.google.com/drive/folders/1gtJ_VHD7tSXKgffHm-hOHaTQmNJbuelE?usp=sharing)]
 
 ### 🚀 Kullanım Adımları:
 
